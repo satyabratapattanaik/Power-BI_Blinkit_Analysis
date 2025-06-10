@@ -33,7 +33,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
    
       Chart Type: Donut Chart.
    
-3. **Total Sales by Item Type:**
+2. **Total Sales by Item Type:**
    
       Objective: Identify the performance of different item types in terms of total sales.
    
@@ -41,7 +41,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
    
       Chart Type: Bar Chart.
    
-5. **Fat Content by Outlet for Total Sales:**
+3. **Fat Content by Outlet for Total Sales:**
 
       Objective: Compare total sales across different outlets, segmented by fat content.
    
@@ -49,7 +49,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
    
       Chart Type: Stacked Column Chart.
    
-7. **Total Sales by Outlet Establishment:**
+4. **Total Sales by Outlet Establishment:**
    
       Objective: Evaluate how the age or type of outlet establishment influences total sales.
    
