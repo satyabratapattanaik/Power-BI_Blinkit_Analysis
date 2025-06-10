@@ -18,7 +18,7 @@ This repository contains the analysis and report on the Blinkit application.
 
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimisation using various KPIs and visualisations in Power BI.
 
-KPIs Requirement:-
+**KPIs Requirement:-**
 1. **Total Sales:** The overall revenue generated from all items sold.
 2. **Average Sales:** The average revenue per sale.
 3. **Number of items:** The total count of different items sold.
