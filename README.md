@@ -15,4 +15,4 @@ This repository contains the analysis and report on the Blinkit application.
 11. Insights Generations
 
 **1. Business Requirement**
-To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualisations in Power BI.
+To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimisation using various KPIs and visualisations in Power BI.
