@@ -54,3 +54,23 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
       Objective: Evaluate how the age or type of outlet establishment influences total sales.
    
       Chart Type: Line Chart.
+
+5. **Sales by Outlet Size:**
+
+      Objective: Analyse the correlation between outlet size and total sales.
+   
+      Chart Type: Donut/Pie Chart.
+
+6. **Sales by Outlet Location:**
+
+      Objective: Access the geographical distribution of sales across different locations.
+   
+      Chart Type: Funnel Map.
+
+7. **All Metrics by Outlet Type:**
+
+      Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
+   
+      Chart Type: Matrix Card.
+
+   
