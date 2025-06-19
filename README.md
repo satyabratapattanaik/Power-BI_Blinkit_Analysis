@@ -75,6 +75,6 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 
 **Microsoft Power BI Desktop**
-**Version:** 2.143.1204.0 64-bit (May, 2025)
+**Version:** 2.143.1204.0 64-bit (May, 2025).
 
    
